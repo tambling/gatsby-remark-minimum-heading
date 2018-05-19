@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "A Gatsby/Remark wrapper for mdast-minimum-heading",
   "main": "index.js",
-  "scripts": {
-    "test": "npm test"
-  },
   "repository": "tambling/gatsby-remark-minimum-heading",
   "author": "Dean Tambling <dean.tambling@gmail.com> (http://tambling.me)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mdast-minimum-heading": "^1.1.0"
+  }
 }
